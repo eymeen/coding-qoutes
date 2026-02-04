@@ -4,6 +4,9 @@ Historical Sayings about Programming
 "**A programming influencer is another word for unemployed programmer.**"  
 — **Ayman Eid (2004–Present)**
 
+"**A programmer lives even after death, the designer is dead alive.**"
+— **Ayman Eid (2004–Present)**
+
 "**Behind you is the deadline, ahead of you are bugs - all you have is claude and endurance.**"  
 — **Ayman Eid (2004–Present)**
 
@@ -42,3 +45,4 @@ Historical Sayings about Programming
 
 "**A real win is converting critics into collabrators with clean docs and kindness.**"  
 — **Ayman Eid (2004–Present)**
+
